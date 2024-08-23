@@ -1,0 +1,7 @@
+.monitor-carousal-list{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}

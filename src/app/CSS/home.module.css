@@ -1,0 +1,18 @@
+#product-display{
+
+}
+
+#product-display-list{
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+}
+
+.product-display-list-item{
+    display: block;
+    margin: auto;
+}
+
+.product-display-list-item Image:hover{
+    width: 220px;
+}
